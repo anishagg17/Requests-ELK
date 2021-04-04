@@ -19,12 +19,12 @@ Created a `Logstash` pipeline to parse and index logs, which are then processed 
 
 ![Screenshot 2021-04-04 at 9 10 10 PM](https://user-images.githubusercontent.com/43617894/113514059-26911580-958a-11eb-8a33-4fdefeda1377.png)
 
-![Screenshot 2021-04-04 at 9 12 05 PM](https://user-images.githubusercontent.com/43617894/113514111-6b1cb100-958a-11eb-9f68-a019e59bfd48.png)
+<!-- ![Screenshot 2021-04-04 at 9 12 05 PM](https://user-images.githubusercontent.com/43617894/113514111-6b1cb100-958a-11eb-9f68-a019e59bfd48.png) -->
 
 
 ## Map representation
 
-![Screenshot 2021-04-04 at 9 10 29 PM](https://user-images.githubusercontent.com/43617894/113514066-314baa80-958a-11eb-85f3-38fff6fad454.png)
+<!-- ![Screenshot 2021-04-04 at 9 10 29 PM](https://user-images.githubusercontent.com/43617894/113514066-314baa80-958a-11eb-85f3-38fff6fad454.png) -->
 
 ![Screenshot 2021-04-04 at 9 11 34 PM](https://user-images.githubusercontent.com/43617894/113514096-58a27780-958a-11eb-9ee3-622b338b4bf0.png)
 
