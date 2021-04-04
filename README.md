@@ -1,6 +1,6 @@
 # Requests-ELK
 
-Created a Logstash pipeline to pro
+Created a `Logstash` pipeline to parse and index logs, which are then processed by `Elasticsearch` and visualized using `Kibana`
 
 ![Screenshot 2021-04-04 at 9 09 55 PM](https://user-images.githubusercontent.com/43617894/113514053-1e38da80-958a-11eb-8e03-0438e70a9306.png)
 
